@@ -62,6 +62,7 @@ h2 {
 
 .task-body {
   margin-left: 10px;
+  overflow-wrap: break-word;
   cursor: text;
   line-height: 1.5;
 }
